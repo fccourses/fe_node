@@ -5,4 +5,6 @@ class MyMath {
   static div = (a, b) => a / b;
 }
 
+console.log(2 + 2);
+
 exports.MyMath = MyMath;
