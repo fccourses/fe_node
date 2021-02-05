@@ -1,1 +1,0 @@
-Hello node and awesome package with modules and objects
